@@ -2,6 +2,9 @@
 
 ## [See example usage on Youtube](https://youtu.be/VAIwqG7e3n8)
 
+![my-structure-code](https://user-images.githubusercontent.com/89120990/157802875-f3aef261-9974-41ce-8539-e8ae527888c6.png)
+
+
 ### Config
 config folder contains the following folders:
 - **routes :** The route folder contains all the files which are based on the application screens navigation code
