@@ -49,8 +49,3 @@ In this file, there will be getters and setters for each and every data to be st
 ## Reference
 - [Clean architecture by Get_cli](https://pub.dev/packages/get_cli)
 - [Flutter scalable folder & files structure](https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd)
-
-
-## Reference
-- [Clean architecture by Get_cli](https://pub.dev/packages/get_cli)
-- [Flutter scalable folder & files structure](https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd)
