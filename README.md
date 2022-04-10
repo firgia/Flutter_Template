@@ -1,14 +1,15 @@
-# Template Project
+# Flutter Template 
 
-## [See example usage on Youtube](https://www.youtube.com/playlist?list=PL90UioxEmIFFallvMeaaROaBOAAyRbfCv)
 
-![my-structure-code](https://user-images.githubusercontent.com/89120990/157802875-f3aef261-9974-41ce-8539-e8ae527888c6.png)
+![3  promo - clean code](https://user-images.githubusercontent.com/89120990/162611162-0eda407b-2df5-440a-9181-5b917fad0a62.png)
+
 
 
 ### Config
 config folder contains the following folders:
 - **routes :** The route folder contains all the files which are based on the application screens navigation code
 - **themes :** If our application supports light and dark theme and these themes are custom themes then need to create two files light_theme.dart, dark_theme.dart where we will be adding all the colors which are needed for each widget type.
+- **translation :** If our application supports multiple languages, we create a new module focused on translation.
 
 ### Constans
 Here are the following constants which are static throughout the applications :
@@ -44,6 +45,11 @@ In this file, there will be getters and setters for each and every data to be st
 - [Why using Getx?](https://pub.dev/packages/get#why-getx)
 - [Dio for request API](https://pub.dev/packages/dio)
 - [shared_preferences for save your data to local storage](https://pub.dev/packages/shared_preferences)
+
+## Reference
+- [Clean architecture by Get_cli](https://pub.dev/packages/get_cli)
+- [Flutter scalable folder & files structure](https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd)
+
 
 ## Reference
 - [Clean architecture by Get_cli](https://pub.dev/packages/get_cli)
